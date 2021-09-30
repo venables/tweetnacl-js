@@ -52,5 +52,8 @@
   "browser": {
     "buffer": false,
     "crypto": false
+  },
+  "dependencies": {
+    "expo-random": "^11.2.0"
   }
 }
